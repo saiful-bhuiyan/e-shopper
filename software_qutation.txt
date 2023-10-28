@@ -1,0 +1,15 @@
+Sub Categorie : 
+categorie_id -> foreign_key,
+sub_cat_name_en -> string,
+sub_cat_name_bn ->string,
+order_by -> integer,
+status -> integer,
+deleted_at ->date
+
+brand : 
+
+brand_name_en -> string,
+brand_name_bn -> string,
+status -> integer,
+order_by -> integer
+deleted_at ->date

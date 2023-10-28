@@ -1,0 +1,28 @@
+<?php
+
+return array(
+    'create_title'=>'পন্য',
+    'icon'=>'আইকন',
+    'status'=>'স্ট্যাটাস',
+    'categorie'=>'ক্যাটাগরি নাম',
+    'sub_categorie'=>'সাব ক্যাটাগরি নাম',
+    'product_name'=>'পন্য নাম',
+    'product_name_en'=>'পন্য ইংরেজি নাম',
+    'product_name_bn'=>'পন্য বাংলা নাম',
+    'reguler_price'=>'রেগুলার দাম',
+    'discount_amount'=>'ছাড়',
+    'min_quantity'=>'ন্যূনতম পরিমাণ',
+    'short_details'=>'সংক্ষিপ্ত বিবরণ',
+    'description'=>'বর্ণনা',
+    'information'=>'তথ্য',
+    'size'=>'সাইজ',
+    'color'=>'কালার',
+    'image'=>'ইমেজ',
+    'index_title'=>'সকল পন্য',
+    'create_message'=>'পন্য তৈরি করা হলো',
+    'update_message'=>'পন্য আপডেট করা হলো',
+    'status_message'=>'স্ট্যাটাস চেন্জ করা হয়েছে',
+    'delete_message'=>'পন্য অপসারণ করা হয়েছে',
+    'retrive_message'=>'পন্য পুনুরুদ্ধার করা হয়েছে',
+    'permenant_delete'=>'পন্য সম্পুর্ণ ভাবে অপসারণ করা হয়েছে',
+);
